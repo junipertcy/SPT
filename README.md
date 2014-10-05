@@ -5,10 +5,8 @@ single particle tracking routines
 The duration of this study spanned from Sep 2013 to Sep 2014, by Tzu-Chi Yen, under the supervision of Dr. Chia-Lung Hsieh.
 
 The package consists of onw part:
-    (I)	    [code-tracking]: General codes for SPT
- 
-#=============================================================
-(I) [code-tracking]:
+(I)   [code-tracking]: General codes for SPT
+    
 (I-i) tracking_main: Starting with main code *run.m* and adapting changes in *track.m* and *sif2tif.m*, one will be able to acquire trajectory/msd info from a series of properly named *.sif files.
 
 (I-ii) localization_benchmark: Using *example_run.m*, you will obtain simulated images and their localization results. *make_multiSNr_plots.m* will help to plot the errors w.r.t. to SNr’s. Refer *Parthasarathy_readme.pdf* for more detailed explanation. 
