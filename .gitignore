@@ -1,0 +1,6 @@
+# extensions ignorant to git: documentation and benchmark figures
+*.tif
+*.pdf
+*.mat
+*.fig
+

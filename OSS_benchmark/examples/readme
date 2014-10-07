@@ -1,0 +1,15 @@
+Info of the figures:
+	final_fig_2-1:
+		MSD of a single atto-monoavidin bound to glass.
+		The inset shows the trajectory of the same protein.
+	final_fig_2-2:
+		the trajectory of that produces final_fig_2-1.
+	final_fig_14:
+		Mean standard deviation of trajectory x-y data
+		Important info for defining *immobile* particles
+	final_fig_2:
+		data for figures described above
+		lll: standard deviation of trajectory x-y data of all immobile particles
+		mmm: trajectory length of all immobile particles (index matched with *lll*)
+		traj_ex: representative trajectory (final_fig_2-2.fig)
+		msd_ex: msd of the representative trajectory (final_fig_2-1.fig)

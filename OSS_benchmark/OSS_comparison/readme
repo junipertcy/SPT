@@ -1,0 +1,33 @@
+Info of the figures:
+
+HEPES buffer:	(1.95 s)
+336.8675
+General model Exp1:
+     f(x) = a*exp(b*x)
+     Coefficients (with 95% confidence bounds):
+       a =    0.003494  (0.003454, 0.003535)
+       b =   -0.005117  (-0.005202, -0.005032)
+
+0.1M nPG:    (7.33 s)
+235.8435
+General model Exp1:
+     f(x) = a*exp(b*x)
+     Coefficients (with 95% confidence bounds):
+       a =    0.001274  (0.001246, 0.001303)
+       b =   -0.001364  (-0.001408, -0.001321)
+
+0.1M AA:     (3.92 s)
+345.8360
+General model Exp1:
+     f(x) = a*exp(b*x)
+     Coefficients (with 95% confidence bounds):
+       a =    0.001904  (0.001878, 0.00193)
+       b =    -0.00255  (-0.002599, -0.0025)
+
+PCA/PCD/Trolox:		(11.8 s)
+350.7645
+General model Exp1:
+     f(x) = a*exp(b*x)
+     Coefficients (with 95% confidence bounds):
+       a =   0.0007762  (0.0007642, 0.0007881)
+       b =  -0.0008456  (-0.0008641, -0.000827)
